@@ -4,6 +4,8 @@ A multi-threaded file downloader application built with Python and PyQt5, featur
 
 ![thumbnail_1](https://github.com/user-attachments/assets/8108fd9f-d58f-4b33-a924-47b0a2f64ef5)
 
+![thumbnail_2](https://github.com/user-attachments/assets/3e2ef28d-8f60-4f5f-a176-bb24dc9d1e26)
+
 ## Features
 
 - Concurrent downloads using Python threading
